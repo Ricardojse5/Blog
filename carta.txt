@@ -1,4 +1,4 @@
 Ricardo Salas Estrada
 ing sistemas
-edad 24
-recien graduado
+edad 23
+mañana cambiaremos su estado
