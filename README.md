@@ -1,4 +1,3 @@
 
-# Hyperbl
-
+# Blog
 Un blog
