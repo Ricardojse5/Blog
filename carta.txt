@@ -1,4 +1,5 @@
 Ricardo Salas Estrada
 ing sistemas
 edad 23
+master 1
 mañana cambiaremos su estado
