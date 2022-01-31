@@ -9,3 +9,4 @@
 * Trucos
 * Creado por Ricardo
 * Incluye otros ejemplos
+* Disponible para todos
