@@ -8,3 +8,4 @@
 * El uso de buenas practicas
 * Trucos
 * Creado por Ricardo
+* Incluye otros ejemplos
