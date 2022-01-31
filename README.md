@@ -7,3 +7,4 @@
 * El flujo de trabajo en github
 * El uso de buenas practicas
 * Trucos
+* Creado por Ricardo
